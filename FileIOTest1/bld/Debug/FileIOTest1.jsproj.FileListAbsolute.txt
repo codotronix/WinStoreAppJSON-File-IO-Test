@@ -1,0 +1,15 @@
+I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\bin\Debug\ReverseMap\resources.pri
+I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\bin\Debug\AppxManifest.xml
+I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\bin\Debug\FileIOTest1.build.appxrecipe
+I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\bld\Debug\priconfig.xml
+I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\bld\Debug\priconfig.xml.intermediate
+I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\bld\Debug\layout.resfiles
+I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\bld\Debug\layout.resfiles.intermediate
+I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\bld\Debug\resources.resfiles
+I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\bld\Debug\resources.resfiles.intermediate
+I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\bld\Debug\pri.resfiles
+I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\bld\Debug\pri.resfiles.intermediate
+I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\bld\Debug\qualifiers.txt
+I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\bld\Debug\qualifiers.txt.intermediate
+I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\bld\Debug\ProjectArchitectures.txt

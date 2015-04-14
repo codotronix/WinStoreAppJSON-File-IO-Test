@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SUPERNOVA</Machine>
+    <WindowsUser>Codotronix</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f328d724-6c71-491a-a703-c7a07cfddbcd</PackageIdentityName>
+    <IntermediateOutputPath>I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>7C016F5A38377CC4B14A2F5D128E5D8A2DFEA06F85B499D0000B3437F1DB8DCA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f328d724-6c71-491a-a703-c7a07cfddbcd_1.0.0.0_neutral__qabx4nybn07ty</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f328d724-6c71-491a-a703-c7a07cfddbcd_qabx4nybn07ty!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f328d724-6c71-491a-a703-c7a07cfddbcd</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Codotronix</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-13T15:42:48.220</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-04-13T19:42:00.564</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T01:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T01:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T01:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T01:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2014-03-14T10:15:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\js\jquery-2.1.3.min.js">
+      <PackagePath>js\jquery-2.1.3.min.js</PackagePath>
+      <Modified>2015-03-27T17:34:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\js\script.js">
+      <PackagePath>js\script.js</PackagePath>
+      <Modified>2015-04-14T15:58:19.841</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2014-06-03T01:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studio Codes\JavaScript\FileIOTest1\FileIOTest1\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-13T15:42:47.923</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
