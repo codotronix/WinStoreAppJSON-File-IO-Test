@@ -44,12 +44,10 @@
                 console.log('Empty file read. Hence calling write function with data <content>' + stringObj + '</content>');
             }
             else {
-                //$('#statusMsg').append("<br/> Existing File. Contents = " + contents);
                 //contents = "'" + contents + "'";
                 console.log('Non Empty File Found...');
                 FileDataObj = JSON.parse(contents);
                 console.log('And after JSON.parse that non empty file, we got = ' + FileDataObj);
-                //$('#statusMsg').append("<br/>  Read Content = " + FileDataObj.Level_1);
             }
 
             updateLeaderBoard();
@@ -60,7 +58,6 @@
         console.log('reset function is called');
         Windows.Storage.FileIO.writeTextAsync(saveFile, '').then(function () {
             //console.log('done reseting the file...');
-            //$('#statusMsg').append('<br/> File reset Successfull...');
             readScoresFromFile();
         });
     }
